@@ -1,0 +1,82 @@
+.h1 {
+    font-family: "Spline Sans Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+.p{
+    font-family: "Spline Sans Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color:whitesmoke
+  }
+.p2{
+    font-family: "Spline Sans Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: whitesmoke;
+  }
+
+.p3{
+    font-family: "Spline Sans Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: whitesmoke;
+  }
+.M{
+    font-family: "Spline Sans Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: whitesmoke;
+  }
+  body {
+    background-color: darkslategrey; /* Cor de fundo neutra */
+}
+img {
+border: 2px solid #000000;
+border-radius: 50px;max-width: 100%;
+height: auto;
+filter: brightness(120%);
+border: 2px solid #000000;
+border-radius: 50px;
+background-image: url('montanha.jpg');
+background-attachment: fixed;
+background-size: cover;
+background-position: center; 
+background-image: url('montanha.jpg');
+background-attachment: fixed;
+background-size: cover;
+background-position: center; 
+}
+img {
+border: 2px solid #000000;
+border-radius: 20px;
+max-width: 100%;
+height: auto;
+filter: brightness(120%);
+border: 2px solid #000000;
+border-radius: 50px;
+background-image: url('montanha.jpg');
+background-attachment: fixed;
+background-size: cover;
+background-position: center; 
+background-image: url('montanha.jpg');
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+}
+header{
+    background: darkslategrey;
+    color:crimson;
+    text-align: center;
+    padding:20px
+
+}
+a{
+    color:crimson;
+    text-decoration: none;
+}

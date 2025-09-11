@@ -1,0 +1,64 @@
+h1 {
+    color: white;
+    text-shadow: 0px 30px 1px greenyellow
+    }
+    body {
+        background: linear-gradient(to right, #343a40 10%, #2d3238 20%, #26292e 35%, #202328 50%, #1a1d22 65%, #14171c 80%, #0e1116 90%, #080a0e 100%);
+    }
+    .roboto{
+        font-family: "Roboto", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        font-variation-settings:
+          "wdth" 100;
+      }
+
+    .great-vibes-regular {
+        font-family: "Great Vibes", cursive;
+        font-weight: 400;
+        font-style: normal;
+        }  
+    img {
+        border: 2px solid yellowgreen;
+        border-radius: 50px; 
+        max-width: 100%;
+        height: auto;
+        filter: brightness(120%);
+        border: 2px solid #000000;
+        border-radius: 50px;
+        background-image: url('montanha.jpg');
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center; 
+        background-image: url('montanha.jpg');
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center;
+            }
+img.redonda {
+            border-radius: 50%; /* deixa a imagem redonda */
+            }
+table, th, td {
+    color: yellowgreen;
+    border: 1px solid whitesmoke;
+    border-collapse: collapse; /* junta as bordas */
+              }
+ th, td {
+    padding: 10px; /* espaço interno */
+    text-align: center; /* centralizar texto */
+}
+
+th {
+    background-color: #333;
+    color: white;
+    }
+    td {
+        background-color: #222;
+    }
+    tr:nth-child(even) { /* linhas pares */
+        background-color: #000000;
+        }
+        tr:nth-child(odd) { /* linhas ímpares */
+        background-color: yellowgreen;
+        }

@@ -1,0 +1,64 @@
+
+h1 {
+    color:whitesmoke;
+}
+h2{
+    color:whitesmoke;
+}
+ul{
+    background-color:black;
+}
+li:hover{
+    color: blue;
+}
+
+/*seletor tag HTML*/
+body{
+    background-color:black;
+}
+
+
+
+/*seletor class*/
+.férias{
+    color:whitesmoke;
+}
+.divLorem{
+    background-color:black;
+}
+/*seletor ID*/
+#Lorem{
+    color:whitesmoke;
+}
+
+h1{
+    color: green;
+}
+
+body {
+    background: linear-gradient(to right, #343a40 10%, #2d3238 20%, #26292e 35%, #202328 50%, #1a1d22 65%, #14171c 80%, #0e1116 90%, #080a0e 100%);
+}
+
+
+p:hover {
+    color:blue;
+}
+
+.Link{
+    color: whitesmoke;
+}
+
+li:hover{
+    color:blue
+}
+li{
+    color:whitesmoke
+}
+
+.divli{
+    background-color:black;
+}
+.divp{
+    background-color:black;
+}
+

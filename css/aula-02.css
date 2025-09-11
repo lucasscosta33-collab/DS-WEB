@@ -1,0 +1,118 @@
+
+/*  
+    tamanho fixo 
+
+*/
+p {
+    font-size: 16px; 
+}
+
+
+ /*
+    Útil para criar layouts proporcionais
+    
+/*
+ <style>
+#pai{
+font-size: 16px;
+}
+#filho{
+font-size: 2em;
+}
+</style>
+<div id="pai">
+div pai
+<div id="filho">
+div filho
+</div>
+</div>
+*/
+
+/* % (porcentagem) - porcentagem do elemento  */
+
+div {
+    width: 50%; /* metade da largura do pai */
+    }
+    p {
+    font-size: 120%; /* 120% do tamanho do pai */
+    }
+
+/*Define a tipografia usada.*/
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+/*Tamanho da fonte ( font-size )*/
+
+h1 {
+    font-size: 32px;
+    }
+    p {
+ 
+    font-size: 1.2em;
+    }
+
+/*Peso da fonte ( font-weight )*/
+p {
+    font-weight: bold; /* ou 100 a 900 */
+    }
+
+/*Transformação do texto ( text-transform )*/
+
+h2 {
+    text-transform: uppercase; /* maiúsculas */
+    }
+    p {
+    text-transform: capitalize; /* Primeira Letra Maiúscula */
+    }
+
+
+    /*Formatação de Imagens,Estilização de tabelas*/
+
+   /* Borda*/
+   img {
+    border: 5px solid black;
+    filter: grayscale(100%); /* preto e branco */
+    filter: blur(5px);
+}
+    /*Bordas arredondadas*/
+
+    img {
+        border-radius: 10px; /* cantos arredondados */
+        }
+    img.redonda {
+        border-radius: 50%; /* deixa a imagem redonda */
+            }
+    img:hover {
+                filter: brightness(50%); /* clareia ao passar o mouse */
+    }
+    /*Opacidade e efeitos visuais*/
+
+    img {
+        opacity: 0.5; /* 80% visível */
+        }
+        img:hover {
+        opacity: 1; /* volta ao normal quando passa o mouse */
+        }
+
+    /*Alinhamento*/
+    img {
+        display: block;
+        margin: 0 auto; /* centraliza */
+        }
+        td {background-color: #f2f2f2;
+        }
+    /*Largura e altura da tabela*/
+    table {
+        width: 100%; /* ocupa toda a largura */
+        }
+        th, td {
+            height: 5px; /* altura das células */
+            } 
+    th {
+     background-color: #333;
+     color: white;
+        }
+    td {background-color: #333;
+        }
