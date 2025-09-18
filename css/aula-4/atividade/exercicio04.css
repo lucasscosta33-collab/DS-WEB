@@ -1,0 +1,19 @@
+.div01{
+    background-color: red;
+    border: 2px solid black;
+    padding: 200px;
+    width: 400px;
+    height: 300;
+    text-align: center;
+    align-content: end ;
+
+}
+.box{
+    background-color: blue;
+    border: 2px solid black;
+    padding: 100px;
+    width:   30px;
+    height:  20px;
+    margin: 2px auto;
+    font-size: 20px;
+}
