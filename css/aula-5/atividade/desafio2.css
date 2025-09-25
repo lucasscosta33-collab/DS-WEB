@@ -1,0 +1,60 @@
+.L{
+ background-color: red;
+ margin-top: 10px;
+ position: sticky;
+ height: 50px;
+ width: 50px;
+ top: 0px;
+margin-left: 60px;
+text-align: center;
+align-content: center;
+
+}
+
+.j{
+    height: 2000px;;
+}
+.u{
+    background-color: blue;
+    margin-top: 10px;
+    position: sticky;
+    height: 50px;
+    width: 50px;
+    top: 0px;
+   margin-left: 120px;
+   text-align: center;
+   align-content: center;
+}
+.c{
+    background-color: green;
+    margin-top: 10px;
+    position: sticky;
+    height: 50px;
+    width: 50px;
+    top: 0px;
+   margin-left: 180px;
+   text-align: center;
+   align-content: center;
+}
+.a{
+    background-color: yellow;
+    margin-top: 10px;
+    position: sticky;
+    height: 50px;
+    width: 50px;
+    top: 0px;
+   margin-left: 240px;
+   text-align: center;
+   align-content: center;
+}
+.s{
+    background-color: purple;
+    margin-top: 10px;
+    position: sticky;
+    height: 50px;
+    width: 50px;
+    top: 0px;
+   margin-left: 300px;
+   text-align: center;
+   align-content: center;
+}

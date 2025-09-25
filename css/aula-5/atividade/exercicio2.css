@@ -1,0 +1,14 @@
+.caixa1{
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+}
+.caixa2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}

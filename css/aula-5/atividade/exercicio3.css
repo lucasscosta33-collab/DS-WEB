@@ -1,0 +1,31 @@
+.caixa1{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    color: white;
+}
+
+.box2{
+    height: 2000px;
+    width: 100px;
+    background-color: cadetblue;  
+
+    top:50px
+}
+.boxaabsoluta{
+    height: 20px;
+    width: 20px ;
+    background-color: yellow;
+}
+
+.absoluta{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 50px;
+    width: 50px;
+    background-color: chocolate;  
+}
